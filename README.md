@@ -7,7 +7,7 @@
 </p>
 
 
-# Executive Summary
+## Executive Summary
 
 The luxury perfume industry is highly competitive, where understanding customer preferences, product performance, profitability, and regional sales trends is essential for sustainable business growth.
 
@@ -17,7 +17,7 @@ The dashboard empowers business leaders to identify high-performing brands, opti
 
 ---
 
-# Business Problem
+## Business Problem
 
 Luxury retailers often collect large amounts of transactional data but struggle to answer critical business questions such as:
 
@@ -32,7 +32,7 @@ Without interactive reporting, these insights remain difficult to uncover quickl
 
 ---
 
-# Project Objectives
+## Project Objectives
 
 ✔ Monitor overall business performance
 
@@ -50,7 +50,7 @@ Without interactive reporting, these insights remain difficult to uncover quickl
 
 ---
 
-# Dataset Overview
+## Dataset Overview
 
 The dataset includes perfume sales transactions across multiple retail branches.
 
@@ -70,9 +70,9 @@ The dataset includes perfume sales transactions across multiple retail branches.
 
 ---
 
-# Dashboard Overview
+## Dashboard Overview
 
-##  Executive KPIs
+###  Executive KPIs
 
 The dashboard presents high-level business indicators:
 
@@ -84,31 +84,31 @@ The dashboard presents high-level business indicators:
 
 ---
 
-## Revenue Trend Analysis
+### Revenue Trend Analysis
 
 Tracks monthly revenue growth to identify seasonal trends and sales performance throughout the year.
 
 ---
 
-## Top Performing Brands
+### Top Performing Brands
 
 Ranks perfume brands based on generated revenue, helping identify market leaders.
 
 ---
 
-## Profitability vs Revenue
+### Profitability vs Revenue
 
 Scatter analysis comparing revenue and profitability across brands, highlighting products with strong financial performance.
 
 ---
 
-## Revenue by Customer Demographics
+### Revenue by Customer Demographics
 
 Compares purchasing behavior between customer groups to support targeted marketing strategies.
 
 ---
 
-## Branch Performance Analysis
+### Branch Performance Analysis
 
 Evaluates:
 
@@ -119,19 +119,19 @@ to compare branch efficiency.
 
 ---
 
-## Revenue by Location
+### Revenue by Location
 
 Interactive geographic visualization showing revenue contribution across different locations.
 
 ---
 
-## Profit Distribution
+### Profit Distribution
 
 Treemap visualization illustrating profit contribution by perfume brand and bottle size.
 
 ---
 
-## Revenue by Customer Type
+### Revenue by Customer Type
 
 Breakdown of sales generated from:
 
@@ -140,7 +140,7 @@ Breakdown of sales generated from:
 
 ---
 
-# Interactive Filters
+## Interactive Filters
 
 Users can dynamically filter the dashboard using:
 
@@ -152,7 +152,7 @@ Users can dynamically filter the dashboard using:
 
 ---
 
-# Key Insights
+## Key Insights
 
 ✔ Luxury brands such as **Ajmal** and **Dior Sauvage** generate the highest revenue.
 
@@ -168,7 +168,7 @@ Users can dynamically filter the dashboard using:
 
 ---
 
-# Business Recommendations
+## Business Recommendations
 
 ✅ Prioritize inventory for top-selling brands.
 
@@ -184,7 +184,7 @@ Users can dynamically filter the dashboard using:
 
 ---
 
-# Tools & Technologies
+## Tools & Technologies
 
 | Tool               | Purpose                     |
 | ------------------ | --------------------------- |
@@ -195,7 +195,7 @@ Users can dynamically filter the dashboard using:
 
 ---
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 * Business Intelligence
 * Sales Analytics
@@ -211,7 +211,7 @@ Users can dynamically filter the dashboard using:
 
 ---
 
-# Future Enhancements
+## Future Enhancements
 
 Potential future improvements include:
 
@@ -224,9 +224,9 @@ Potential future improvements include:
 
 ---
 
-# About the Author
+## About the Author
 
-## Shamna Abdul Razak
+### Shamna Abdul Razak
 
 Aspiring Data Analyst specializing in **Excel, SQL, Tableau, and Power BI**, with a passion for transforming complex business data into clear, actionable insights through interactive dashboards and business intelligence solutions.
 
